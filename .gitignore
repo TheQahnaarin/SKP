@@ -59,3 +59,5 @@ sysinfo.txt
 crashlytics-build.properties
 
 Unity/SKP/Assets/SKp.unity.meta
+Unity/SKP/Library/EditorInstance.json
+Unity/SKP/Temp/UnityLockfile
